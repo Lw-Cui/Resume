@@ -1,5 +1,5 @@
-# Resume
+# résumé
 
-There are my resume (including Chinese version & English version).
+There are my résumé (including Chinese version & English version).
 
 You could find more info about me in this account:)
